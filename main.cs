@@ -9,7 +9,7 @@ namespace PPSklad
     static class Program
     {
         /// <summary>
-        /// Главная точка входа для приложения.
+        /// MAIN POINT TO ENTRANCE TO APP
         /// </summary>
         [STAThread]
         static void Main()
