@@ -8,9 +8,6 @@ namespace PPSklad
 {
     static class Program
     {
-        /// <summary>
-        /// MAIN POINT TO ENTRANCE TO APP
-        /// </summary>
         [STAThread]
         static void Main()
         {
