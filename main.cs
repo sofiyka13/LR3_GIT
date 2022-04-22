@@ -8,6 +8,7 @@ namespace PPSklad
 {
     static class Program
     {
+	//комментарий
         [STAThread]
         static void Main()
         {
