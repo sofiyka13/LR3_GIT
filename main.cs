@@ -9,7 +9,11 @@ namespace PPSklad
     static class Program
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	//комментарий
+=======
+	//main point for app
+>>>>>>> 0c78fc6 (новый комментарий к коду)
 =======
 	//main point for app
 >>>>>>> 0c78fc6 (новый комментарий к коду)
