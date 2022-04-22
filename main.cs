@@ -8,7 +8,11 @@ namespace PPSklad
 {
     static class Program
     {
+<<<<<<< HEAD
 	//комментарий
+=======
+	//main point for app
+>>>>>>> 0c78fc6 (новый комментарий к коду)
         [STAThread]
         static void Main()
         {
